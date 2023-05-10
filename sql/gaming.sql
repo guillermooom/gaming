@@ -36,7 +36,7 @@ insert into pc (id, estado) values
 
 
 DROP TABLE IF EXISTS reservar;
-create table reservar (email varchar(50) not null, id int not null, fecha_reserva date not null, turno varchar(10) not null, incidencia date)
+create table reservar (email varchar(50) not null, id int not null, fecha_reserva date not null, turno varchar(10) not null, incidencia varchar(250))
 ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 alter table reservar add constraint pk_reservar primary key (email,id, fecha_reserva);
