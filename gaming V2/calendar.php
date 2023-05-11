@@ -95,7 +95,7 @@ function mesESP($mes){
 						}else{
 							echo "<input type='hidden'  name='fecha' value='$year'>";
 							echo "<input type='hidden'  name='month' value='$month'>";
-							echo "<td><input type='submit'  name='submit' value='$currentDay'></td>";
+							echo "<td><input style=font-size:25px type='submit'  name='submit' value='$currentDay'></td>";
 							$currentDay++;
 						}
 					}
