@@ -69,6 +69,6 @@ alter table incidencia add constraint fk_incidencia_email foreign key (email) re
 
 insert into incidencia (email, fecha_incidencia, incidencia ) values
 ('paco@educa.madrid.org','2023-06-05','Manolo ha roto el teclado de su ordenador'),
-('manolo@educa.madrid.org','2023-06-05','Lo que haya escrito Manolo es mentira');
+('manolo@educa.madrid.org','2023-06-05','Lo que haya escrito Paco es mentira');
 
 commit;	
