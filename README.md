@@ -121,6 +121,11 @@ v2.3.3
 -Solución a un problema de seguridad por las url
 -Obligación de leer la normativa para registrarte.
 
-v2.3.4 (Funcional con el sql "gamingTFG")
+v2.3.4
 
 -Quitar marca de agua del webhost.
+
+v2.3.5 (Funcional con el sql "gamingTFG")
+
+-Solución error $fechaVetado en login y optimización de errores.
+-Solución error incidencia-pc, alertas mejoradas para los últimos errores solucionados.
