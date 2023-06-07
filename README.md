@@ -49,6 +49,30 @@ Cosas que faltan por hacer: X = Hecho
 - Campo incidencia X
 - Entonces se puede hacer que haya un admin y el admin meta a los usuarios y solo tengan que loguearse en vez de registrarse sin sentido. NANA al final no X
 
+v2.0.3
+
+-Reservas más funcional.
+
+v2.1
+
+-Merge de muchos cambios entre lso dos.
+
+v2.2.1
+
+-Nuevas alertas añadidas a la mayoría de las funcionalidades de ese momento.
+
+v2.2.2
+
+-Buscar y mostrar errores de las funcionalidades.
+
+v2.2.3
+
+-Añadir las nuevas alertas a los nuevos errores.
+
+v2.2.4 
+
+-Mejorado el index y ajustes de optimización y evitar errores.
+
 v2.2.5
 - los usuarios vetados al ser vetados ya no pueden iniciar sesión, se borran sus reservas futuras X
 - ya puedes consultar incidencias
