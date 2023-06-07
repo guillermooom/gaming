@@ -97,6 +97,6 @@ v2.3.3
 -Solución a un problema de seguridad por las url
 -Obligación de leer la normativa para registrarte.
 
-v2.3.4
+v2.3.4 (Funcional con el sql "gamingTFG")
 
 -Quitar marca de agua del webhost.
