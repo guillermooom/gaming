@@ -11,13 +11,13 @@ create table usuarios (email varchar(60) not null, nombre varchar(30) not null, 
 alter table usuarios add constraint pk_usuarios primary key (email);
 
 insert into usuarios (email , nombre , apellido , contra , fecha_alta , vetado, info_vetado, pc_reservados, permisos ) values
-('paco@educa.madrid.org','Paco','Gonzalez','Admin123','2023-05-08',NULL,NULL,'0','0'),
+('paco@educa.madrid.org','Paco','Gonzalez','Admin123','2023-05-08',NULL,NULL,'0',NULL),
 ('manolo@educa.madrid.org','Manolo','Lama','Admin123','2023-05-09','2023-05-16','Instaló un programa maligno','0',NULL),
 ('maria@educa.madrid.org','María','Gonzalez','Admin123','2023-05-08',NULL,NULL,'0',NULL),
 ('bea@educa.madrid.org','Beatriz','Torrón','Admin123','2023-05-16',NULL,NULL,'0','2'),
 ('adri@educa.madrid.org','Adrián','Alonso','Admin123','2023-05-16',NULL,NULL,'0','1'),
 ('guille@educa.madrid.org','Guillermo','Moreno','Admin123','2023-05-16',NULL,NULL,'0','1'),
-('alex@educa.madrid.org','Alejandro','Garzón','Admin123','2023-05-16',NULL,NULL,'0','0');
+('alex@educa.madrid.org','Alejandro','Garzón','Admin123','2023-05-16',NULL,NULL,'0',NULL);
 
 
 DROP TABLE IF EXISTS pc;
