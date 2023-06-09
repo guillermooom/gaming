@@ -129,3 +129,8 @@ v2.3.5 (Funcional con el sql "gamingTFG")
 
 -Solución error $fechaVetado en login y optimización de errores.
 -Solución error incidencia-pc, alertas mejoradas para los últimos errores solucionados.
+
+v2.3.6 (Funcional con el sql "gamingTFG")
+
+-Una falta de ortografía.
+-Solución error vetado.
